@@ -1,1 +1,1 @@
-this is a text.
+this is a text. Now testing the seond time to see "git commit" function.
